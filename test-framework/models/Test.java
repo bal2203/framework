@@ -1,7 +1,7 @@
 package models;
 
-import etu001463.framework.annotation.Url;
-import etu001463.framework.renderer.ModelView;
+import etu1463.framework.annotation.Url;
+import etu1463.framework.renderer.ModelView;
 
 public class Test {
 
